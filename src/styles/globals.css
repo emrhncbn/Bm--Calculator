@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+    width: 600px;
+    margin:  0 auto;
+   
+  
+  }
+  
+  .title {
+    background-color: rgb(32, 32, 150);
+    color: white;
+    padding: 10px;
+  }
+  
+  .bmi {
+    margin-top: 20px;
+    background-color: rgb(32, 32, 150);
+    color: white;
+  }
